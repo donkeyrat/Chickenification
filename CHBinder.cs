@@ -20,6 +20,7 @@ namespace Chickenification {
 
             yield return new WaitUntil(() => FindObjectOfType<ServiceLocator>() != null);
             yield return new WaitUntil(() => ServiceLocator.GetService<ISaveLoaderService>() != null);
+            yield return new WaitForSeconds(1f);
             Mesh chicken = null;
             foreach (var mesh in Resources.FindObjectsOfTypeAll<MeshFilter>())
             {
