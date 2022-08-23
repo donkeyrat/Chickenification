@@ -26,11 +26,6 @@ namespace Chickenification {
             {
                 if (mesh && mesh.mesh) mesh.mesh = chickenification.LoadAsset<GameObject>("cheeken").GetComponent<MeshFilter>().mesh;
             }
-
-            foreach (var particle in Resources.FindObjectsOfTypeAll<ParticleSystemRenderer>())
-            {
-                if (particle.mesh != null) particle.mesh = chickenification.LoadAsset<GameObject>("cheeken2").GetComponent<MeshFilter>().mesh;
-            }
             yield break;
         }
 
