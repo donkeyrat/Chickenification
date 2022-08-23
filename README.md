@@ -18,6 +18,10 @@ The mod's [**Github**](https://github.com/donkeyrat/Chickenification) is now the
 
  -Cluck cluck!
 
+### 1.0.1
+
+ -Reformatted Thunderstore page.
+
 ## Credits
 
 This mod was created by Team Grad, an ambitious mod team that really loves chickens!
