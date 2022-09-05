@@ -16,11 +16,16 @@ The mod's [**Github**](https://github.com/donkeyrat/Chickenification) is now the
 
 ## 1.0.0
 
- -Cluck cluck!
+ - Cluck cluck!
 
 ### 1.0.1
 
- -Reformatted Thunderstore page.
+ - Reformatted Thunderstore page.
+
+### 1.0.2
+
+ - Reformatted Gallery section of Thunderstore page.
+ - Updated Thunderstore icon.
 
 ## Credits
 
@@ -33,5 +38,7 @@ This mod was created by Team Grad, an ambitious mod team that really loves chick
 ## Gallery
 
 ![enter image description here](https://cdn.discordapp.com/attachments/651812532746584085/1011446725073981571/unknown.png)
+
 ![enter image description here](https://cdn.discordapp.com/attachments/651812532746584085/1011447158068744263/unknown.png)
+
 ![enter image description here](https://cdn.discordapp.com/attachments/651812532746584085/1011446953516740608/unknown.png)
